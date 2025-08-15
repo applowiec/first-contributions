@@ -8,7 +8,6 @@
 - [Zohaib Khan](https://github.com/zohaibkhan745)
 - [Aaryan Antala]
 - [Jem Koeleman]
-- [rubik](https://github.com/rubiksfood)
 - [Kaushalraj Puwar](https://github.com/kaushalrajpuwar)
 - [Ashok Reddy](https://github.com/ashokCh-dev)
 - [SVN Sai Sathvik](https://github.com/svnsaisathvik)
@@ -1801,3 +1800,4 @@ jack - first contribution practice
 -[Atharva Joshi] (https://github.com/Atharva-Joshi8999)
 -[Lakshya Sachan](https://github.com/anonym1o)
 -[Emir Kaan Ertuğrul](https://github.com/emirkddn)
+- [Applowiec](https://github.com/applowiec)
